@@ -7,4 +7,6 @@ This mod was only created for my friends so that we could enjoy some 1.7.10 pack
 
 ### Credits
 <p>Main function source code copied from @TechoMan from the AMD community.<br>
-https://community.amd.com/t5/opengl-vulkan/high-vram-consumption-in-minecraft/m-p/607299</p>
+https://community.amd.com/t5/opengl-vulkan/high-vram-consumption-in-minecraft/m-p/607299
+@makamys from Github for their fantastic mod template.<br>
+https://github.com/makamys/forge-mod-template</p>
