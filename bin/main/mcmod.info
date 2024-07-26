@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modid}",
+  "name": "RedisplayList",
+  "description": "Hit F3 + A to refresh display list",
+  "version": "${version}",
+  "mcversion": "${minecraft_version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TechoMan", "Hoshroin"],
+  "credits": "@TechoMan from AMD community, they provided the source code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

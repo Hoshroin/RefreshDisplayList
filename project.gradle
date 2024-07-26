@@ -1,0 +1,7 @@
+// Put your project-specific buildscript code in this file
+version = "${mod_version}"
+
+minecraft {
+    replace "@VERSION@", project.version
+    replaceIn "Redisplaylist.java"
+}

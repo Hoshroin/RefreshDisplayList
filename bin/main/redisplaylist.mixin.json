@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "minVersion": "0.6",
+    "package": "com.hoshroin.clientfixer.redisplaylist.mixin",
+    "refmap": "redisplaylist.mixin.refmap.json",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinRenderGlobal_reCreateDisplayLists"
+    ]
+}
